@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/rajin572/rajin572/blob/main/banner.jpg" />
+<img align="center" width="100%" src="https://github.com/sudarsan-k/SudarsanProfile/blob/main/SudarsanPng.png" />
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BEFF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Sudarsana+RajaMurugan+K" alt="Typing SVG" /></a></h3>
 <h3 align="center"> Senior Front-End Developer</h3>
 
