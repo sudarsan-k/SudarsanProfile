@@ -30,6 +30,11 @@ Currently,  working as a team lead in my project,  I am committed to creating a 
 
 Cognizant provides IT consulting and business process outsourcing services for industries including banking, health care, manufacturing, media, and entertainment.
 
+<h>Software Engineer-Level 2</h2>
+<h3>Syncfusion Softwares - [06/2019 - 08/2021]</h3>
+
+Syncfusion is a modern JavaScript UI Controls library that has been built from the ground up to be lightweight, responsive, modular and touch friendly. It is written in TypeScript and has no external dependencies. It also includes complete support for JavaScript, React, ASP.NET Core, Blazor frameworks.
+
 
 
 <h2>Connect with me: </h2>
