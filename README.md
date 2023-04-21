@@ -35,6 +35,16 @@ Cognizant provides IT consulting and business process outsourcing services for i
 
 Syncfusion is a modern JavaScript UI Controls library that has been built from the ground up to be lightweight, responsive, modular and touch friendly. It is written in TypeScript and has no external dependencies. It also includes complete support for JavaScript, React, ASP.NET Core, Blazor frameworks.
 
+<h>Software Engineer</h2>
+<h3>Innoventes Technologies - [08/2021 - 09/2022]</h3>
+
+Innoventes is a customer focused and technology-driven company providing product engineering and enterprise software/application development services that help clients in crafting holistic value for their software development efforts.
+
+
+<h>Frontend Web Developer  (Consultant)</h2>
+<h3>PhonePe - [11/2021 - 09/2022]</h3>
+
+
 
 
 <h2>Connect with me: </h2>
