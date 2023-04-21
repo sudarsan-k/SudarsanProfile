@@ -25,26 +25,32 @@ Currently,  working as a team lead in my project,  I am committed to creating a 
 
 
 ## Work Experience
-<h2>Programmer Analyst Trainee</h2>
-<h3>Cognizant Technology Solutions - [07/2018 - 06/2019]</h3>
+
+<h2>Cognizant Technology Solutions - [07/2018 - 06/2019]</h2>
+<h3>Programmer Analyst Trainee</h3>
 
 Cognizant provides IT consulting and business process outsourcing services for industries including banking, health care, manufacturing, media, and entertainment.
 
-<h>Software Engineer-Level 2</h2>
-<h3>Syncfusion Softwares - [06/2019 - 08/2021]</h3>
+<h2>Syncfusion Softwares - [06/2019 - 08/2021]</h2>
+<h3>Software Engineer-Level 2</h3>
 
 Syncfusion is a modern JavaScript UI Controls library that has been built from the ground up to be lightweight, responsive, modular and touch friendly. It is written in TypeScript and has no external dependencies. It also includes complete support for JavaScript, React, ASP.NET Core, Blazor frameworks.
 
-<h>Software Engineer</h2>
-<h3>Innoventes Technologies - [08/2021 - 09/2022]</h3>
+<h2>Innoventes Technologies - [08/2021 - 09/2022]</h2>
+<h3>Software Engineer</h3>
 
 Innoventes is a customer focused and technology-driven company providing product engineering and enterprise software/application development services that help clients in crafting holistic value for their software development efforts.
 
 
-<h>Frontend Web Developer  (Consultant)</h2>
-<h3>PhonePe - [11/2021 - 09/2022]</h3>
+<h2>PhonePe - [11/2021 - 09/2022]</h2>
+<h3>Frontend Web Developer  (Consultant)</h3>
 
+PhonePe is India’s leading digital payments platform with over 280 million registered users. Using PhonePe, users can send and receive money, recharge mobile, DTH, data cards, pay at stores, make utility payments, buy gold, and make investments.
 
+<h2>Corptec Technology Partners - [09/2022 - Present]</h2>
+<h3>Senior FrontEnd Developer</h3>
+
+Corptec collaborate with businesses to use technology to manage and provide customized technology solutions that combine the latest advances in digital transformation with a deep understanding of the business goals.
 
 
 <h2>Connect with me: </h2>
