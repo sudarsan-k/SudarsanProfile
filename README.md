@@ -64,6 +64,4 @@ Corptec collaborate with businesses to use technology to manage and provide cust
 
 
 
-
-
 ![GitHub metrics](https://metrics.lecoq.io/sudarsan-k)
