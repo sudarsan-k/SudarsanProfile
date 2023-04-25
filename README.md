@@ -52,7 +52,7 @@ PhonePe is India’s leading digital payments platform with over 280 million reg
 
 Corptec collaborate with businesses to use technology to manage and provide customized technology solutions that combine the latest advances in digital transformation with a deep understanding of the business goals.
 
-##Projects
+## Projects
 
 <h2>Connect with me: </h2>
 <div align="center">
