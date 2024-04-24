@@ -7,7 +7,7 @@
 
 
 ## About ME:
-I’m having 5 years of experience in  working as a front-end developer in React JS and Javascript applications.
+I’m having 5+ years of experience in  working as a front-end developer in React JS and Javascript applications.
 <br>
 Also having a strong knowledge in HTML, CSS, Typescript and responsive designs. Expertise in working with state management libraries such as Redux and also worked on the UI related libraries such as Material UI, Bootstrap, AntD, Syncfusion. Familiarity with agile development methodologies, version control systems (Git), and software development best practices and also experienced in code refractor, performance improvement of the web application, Automated Testing tools such as Jest, Jasmine.  Created visually appealing and user-friendly interfaces that meet business requirements and user needs.
 </br>
